@@ -125,5 +125,6 @@ a {
 a:active,
 a:focus,
 a:hover {
-  color: #824027;
+  color: gray;
 }
+
